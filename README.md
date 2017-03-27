@@ -1,11 +1,13 @@
-#C Compiler, also Assembler targeting TI calcs
+# !!! WARNING, INACTIVE & UNMAITAINED PROJECT !!!
+
+# C Compiler, also Assembler targeting TI calcs
 
 Edit Main.hs to change the target file and output file
 
 C compiler is very much incomplete, but the assembler works.
 
 
-##The Assembler
+## The Assembler
 Assembler targets z80 processor, used by TI83+/TI84+CSE series calcs
 
 The assembler does _NOT_ support find and replace #defines or macros,
